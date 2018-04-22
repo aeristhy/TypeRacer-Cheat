@@ -1,28 +1,8 @@
 TypeRacer Cheat Code
 ===================
 
-## 📝 Contents
-
-- [Tutorial](#-tutorial)
-- [Hacking](#-hacking)
-
-## 📖 Tutorial
-**[Back To Top](#-contents)**
-
-Cloning:
-
->Click "Clone or download" and click the clipboard icon.
-![picture alt](https://cdn.discordapp.com/attachments/419724812592611340/437606358234300416/GitHub-1.png "Screenshot")
-
->After you've got the clone URL, open any terminal you've got and go to Desktop.
-![picture alt](https://cdn.discordapp.com/attachments/419724812592611340/437608387103162390/GitHub-2.png "Screenshot")
-
->Assuming you still got your terminal open, type git clone and then paste the URL you copied before and hit enter, it should look like the following:
-git clone https://github.com/aerisDoesCodes/TypeRacer-Cheat.git
-![picture alt](https://cdn.discordapp.com/attachments/419724812592611340/437610296954322955/GitHub-3.png "Screenshot")
-
 ## 📖 Hacking
-**[Back To Top](#-contents)**
+
 Code:
 
 ```javascript
